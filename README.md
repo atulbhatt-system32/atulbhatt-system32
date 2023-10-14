@@ -1,6 +1,5 @@
-# 💫About Me :
-A Creative Web Developer
-------------------------
+# 💫About Me : A Creative Web Developer
+----------------------------------------
 
 I will help you create landing pages, websites, webapps, with best practices.
 
