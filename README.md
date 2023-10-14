@@ -1,7 +1,6 @@
-# 💫About Me : A Creative Web Developer
-----------------------------------------
-
+A Creative Web Developer
 I will help you create landing pages, websites, webapps, with best practices.
+----------------------------------------
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [atulbhatt.tech](http://atulbhatt.tech)
